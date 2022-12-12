@@ -28,4 +28,10 @@ telegram: @Natalikontakt
    * _Тестирование сервиса, который сообщает пользователю о том, сколько ему нужно докупить в рамках конкретной траты, чтобы получить максимальное количество кешбека. Стек: TestNG, JUnit4, JUnit5._
 
 
+### Документы об образовании:
+##### Высшее образование [диплом](https://drive.google.com/file/d/1rR1TFfjZevI5dh83muuD62Va69Y6qeup/view?usp=share_link)
+##### Свидетельства   
+ * [Ручное тестирование](https://drive.google.com/file/d/1IzsVBeL_a486yaGG_62FgaED8ApRnUp1/view?usp=share_link)
+ * [GIT](https://drive.google.com/file/d/10b3PPzi3Oex-d1aHmkqsbdK8ZqLc9Ld9/view?usp=share_link)
+ * [Java для тестировщиков](https://drive.google.com/file/d/1NK6SmB7rme7GzSAtlCCSUz-7DEp0-xTs/view?usp=share_link)
 
