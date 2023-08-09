@@ -14,7 +14,7 @@
    * [Баг-репорты ](https://docs.google.com/spreadsheets/d/1Pf0CuwIAJTUH-tXiabesXkES2LApFzfNdp2Wi6H1QlY/edit?usp=sharing) на основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view)
    * [Тестирование требований "Пользовательский сценарий по процессу восстановления пароля на сайте henderson.ru"](https://docs.google.com/document/d/1LB_tO1-AzyNe4cURAK07Hjy35QLB06C6cw1MQxLc5w0/edit?usp=share_link)
 
-* [Коллекция Postman ](https://drive.google.com/file/d/1ViW-SJT9l87N8RNnBP96_qSLxTAsYvCt/view?usp=drive_link) (Нужно импортировать коллекцию и выполнить запуск коллекции. Использованы переменные на уровне коллекции и добавлены тесты на проверку кода статуса и содержание определенного текста).
+* [Коллекция Postman ](https://drive.google.com/file/d/1ViW-SJT9l87N8RNnBP96_qSLxTAsYvCt/view?usp=drive_link) (На основе https://petstore.swagger.io/. Нужно импортировать коллекцию и выполнить запуск коллекции. Использованы переменные на уровне коллекции и добавлены тесты на проверку кода статуса и содержание определенного текста).
 
 ### Работы по автоматизированному тестированию
 * Team_diplom
