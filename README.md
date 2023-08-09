@@ -10,11 +10,11 @@
 
 * [Тестирование сайта Henderson](https://henderson.ru/)
   
-  * [чек-лист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, включая функционал разделов](https://docs.google.com/spreadsheets/d/1iCxrHjvlpprcUEOLTFv1Vnpp0TC80cV2vXbTv9sn5nc/edit?usp=sharing)
-   * [набор тест-кейсов на проверку функционала восстановления пароля](https://docs.google.com/spreadsheets/d/1kXZyD_RMzvTKduIju3XaEq3WytIWnRDL1fjBLWfwWVU/edit?usp=share_link)
-   * [баг-репорты ](https://docs.google.com/spreadsheets/d/1Pf0CuwIAJTUH-tXiabesXkES2LApFzfNdp2Wi6H1QlY/edit?usp=sharing) на основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view)
-  * [тестирование требований "Пользовательский сценарий по процессу восстановления пароля на сайте henderson.ru"](https://docs.google.com/document/d/1LB_tO1-AzyNe4cURAK07Hjy35QLB06C6cw1MQxLc5w0/edit?usp=share_link)
-   
+  * [Чек-лист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, включая функционал разделов](https://docs.google.com/spreadsheets/d/1iCxrHjvlpprcUEOLTFv1Vnpp0TC80cV2vXbTv9sn5nc/edit?usp=sharing)
+   * [Набор тест-кейсов на проверку функционала восстановления пароля](https://docs.google.com/spreadsheets/d/1kXZyD_RMzvTKduIju3XaEq3WytIWnRDL1fjBLWfwWVU/edit?usp=share_link)
+   * [Баг-репорты ](https://docs.google.com/spreadsheets/d/1Pf0CuwIAJTUH-tXiabesXkES2LApFzfNdp2Wi6H1QlY/edit?usp=sharing) на основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view)
+  * [Тестирование требований "Пользовательский сценарий по процессу восстановления пароля на сайте henderson.ru"](https://docs.google.com/document/d/1LB_tO1-AzyNe4cURAK07Hjy35QLB06C6cw1MQxLc5w0/edit?usp=share_link)
+   * [Коллекция Postman ](https://drive.google.com/file/d/1ViW-SJT9l87N8RNnBP96_qSLxTAsYvCt/view?usp=drive_link) (Нужно импортировать коллекцию и выполнить запуск коллекции. Использованы переменные на уровне коллекции и добавлены тесты на проверку кода статуса и содержание определенного текста).
 
 ### Работы по автоматизированному тестированию
 * Team_diplom
