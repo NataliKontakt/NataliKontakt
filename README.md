@@ -6,7 +6,10 @@
 - email: natali-kontakt@yandex.ru
 - telegram: @Natalikontakt
 
-### Работы по ручному тестированию
+### Работы по ручному тестированию     
+* Составление тест-кейсов по схеме звонка для проверки бота (тестовое задание для компании KVINT)
+[Задание](https://drive.google.com/file/d/1DDrFfhv0zvo9WS9TH0PmPD94Z9XZbaoN/view?usp=drive_link)  
+[Тест-кейсы для проверки бота](https://docs.google.com/spreadsheets/d/1CWSrFJrLUcnhhcV1dMH-YeoX92-Nr4u7/edit?usp=drive_link&ouid=105051116336656936205&rtpof=true&sd=true)
 * Тестирование UI сервера по тестированию беспилотых систем (командная работа)    
 [Техническое задание](https://docs.google.com/document/d/144CCjuQZvyJI8tX4l5Zu_FUf48o6efcv-izk7AHvRhI/edit?usp=drive_link) (Для тестирования сложных бортовых систем в компании используют собственное ПО, которое позволяет писать простые проверки без знания программирования. Разработанное ПО представляет собой фреймворк для разворачивания в корпоративной сети, либо на локальной машине пользователя (jar-файл)).  
 [Итоговый отчет - презентация](https://docs.google.com/presentation/d/1RXj2ZxMKquEatimHWmdk6IHRoV0eDO3wF298fbr0flg/edit?usp=sharing)
