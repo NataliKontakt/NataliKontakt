@@ -7,7 +7,7 @@
 - telegram: @Natalikontakt
 
 ### Работы по ручному тестированию     
-* Составление тест-кейсов по схеме звонка для проверки бота (тестовое задание для компании KVINT)
+* Составление тест-кейсов по схеме звонка для проверки бота (тестовое задание для компании KVINT)          
 [Задание](https://drive.google.com/file/d/1DDrFfhv0zvo9WS9TH0PmPD94Z9XZbaoN/view?usp=drive_link)  
 [Тест-кейсы для проверки бота](https://docs.google.com/spreadsheets/d/1CWSrFJrLUcnhhcV1dMH-YeoX92-Nr4u7/edit?usp=drive_link&ouid=105051116336656936205&rtpof=true&sd=true)
 * Тестирование UI сервера по тестированию беспилотых систем (командная работа)    
