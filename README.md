@@ -28,8 +28,8 @@
 * [Team_diplom](https://github.com/alex311271/Team_diplom)            
   Командный проект. Цель - протестировать приложение для трекинга игровой активности.
 Мной были написаны тесты на класс Player и исправлен код класса GameStore, используя тесты напарника._
-* CardDelivery 
-   * _Тестируемая функциональность: отправка формы. Стек: Selenide, AppVeyor._
+* [CardDelivery](https://github.com/NataliKontakt/CardDelivery)           
+  Тестируемая функциональность: отправка формы. Стек: Selenide, AppVeyor.
 * Selectors
    * _Тестирование заявки на дебетовую карту. Стек: Selenium, AppVeyor._
 * CashBackHacker
