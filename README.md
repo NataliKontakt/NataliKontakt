@@ -25,6 +25,7 @@
 
 
 ### Работы по автоматизированному тестированию
+* [Team_diplom]([https://drive.google.com/file/d/1DDrFfhv0zvo9WS9TH0PmPD94Z9XZbaoN/view?usp=drive_link](https://github.com/alex311271/Team_diplom))
 * Team_diplom
   * _Командный проект. Цель - протестировать приложение для трекинга игровой активности.
 Мной были написаны тесты на класс Player и исправлен код класса GameStore, используя тесты напарника._
