@@ -25,6 +25,7 @@
 
 
 ### Работы по автоматизированному тестированию
+* [Team_diplom](https://github.com/alex311271/Team_diplom)
 [Team_diplom]([https://github.com/alex311271/Team_diplom])
 * Team_diplom
   * _Командный проект. Цель - протестировать приложение для трекинга игровой активности.
